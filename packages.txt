@@ -1,0 +1,10 @@
+node-red-contrib-bigtimer
+@mschaeffler/node-red-logic
+node-red-node-rbe
+node-red-node-smooth
+node-red-contrib-config
+node-red-node-base64
+node-red-contrib-statistics
+node-red-contrib-mapper
+node-red-node-wol
+node-red-contrib-cron-plus
