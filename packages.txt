@@ -8,3 +8,4 @@ node-red-contrib-statistics
 node-red-contrib-mapper
 node-red-node-wol
 node-red-contrib-cron-plus
+node-red-contrib-homekit-bridged
