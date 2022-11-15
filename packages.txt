@@ -1,5 +1,6 @@
 node-red-contrib-bigtimer
 @mschaeffler/node-red-logic
+@node-red-contrib-themes/theme-collection
 node-red-node-rbe
 node-red-node-smooth
 node-red-contrib-config
@@ -9,3 +10,4 @@ node-red-contrib-mapper
 node-red-node-wol
 node-red-contrib-cron-plus
 node-red-contrib-homekit-bridged
+node-red-dashboard
